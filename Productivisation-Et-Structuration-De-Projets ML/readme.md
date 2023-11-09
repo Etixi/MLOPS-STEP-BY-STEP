@@ -10,6 +10,8 @@
 | **`DVC`**                        | **Contrôle de la version des données**                                                                                                                                                                                  |
 | **`pdoc`**                       | **Crèe automatiquement la documentation de votre projet**                                                                                                                                                               |
 
+[references](https://khuyentran1401.github.io/reproducible-data-science/README.html)
+
 
 
 

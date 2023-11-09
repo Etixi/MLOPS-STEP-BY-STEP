@@ -100,7 +100,7 @@ class CategoricalToNumerical(BaseEstimator, TransformerMixin):
         for feature in self.variables:
 
             X[feature] = X[feature].apply(object_to_num)
-            X[feature] = X[feature].astype(np.float)
+            X[feature] = X[feature].astype(np.float32)
         return X
 
 
