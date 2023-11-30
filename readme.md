@@ -15,3 +15,22 @@
 | Observabilité du modèle                                              | Les outils d'observabilité des modèles peuvent vous permettre d'obtneir des informations sur le comportement, les perfromances et l'état de santé de vos modèles ML déployés.                                                                                        | `Evidently AI` <br/> `Aporia` <br/> `WhyLabs` <br/> `Mona` <br/> `Arize AI` <br/> `Superwise`                                                                   |
 
 
+Défis et évolution de l’apprentissage automatique
+Fondamentaux du MLOps
+Installation d'outils et de bibliothèques
+Automatisation du cycle de vie des modèles ML
+Versionnement et enregistrement du modèle avec MLFlow
+Ensemble de données de versionnage avec DVC
+Dépôt de code avec DagsHub, DVC, Git et MLFlow
+Versionnement et enregistrement automatisés avec Pycaret et DagsHub
+Interprétabilité du modèle Avec Shap
+Service de modèles via l'API
+Fondamentaux des API et FastAPI
+Fonctions, méthodes et paramètres dans FastAPI
+Méthode POST et Pydantic dans FastAPI
+Développement d'API pour le modèle Scikit-learn AVEC FastAPI
+Présentation de FLASK
+Dockers et conteneurs dans l'apprentissage automatique
+Deploiement sur Azure Cloud avec Azure Container et Azure SDK
+Intégration et livraison continues (CI/CD) avec les actions GitHub et CML
+Surveillance de modèles avec EvidentlyAI
