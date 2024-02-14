@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/mlops_tools_training/ZenML/mlruns/0/ca591394358c40bbbb2a1d4f53b36575/artifacts
+end_time: 1705667360869
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ca591394358c40bbbb2a1d4f53b36575
+run_name: burly-lamb-81
+run_uuid: ca591394358c40bbbb2a1d4f53b36575
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705667340421
+status: 3
+tags: []
+user_id: Caplogy_Data_002
