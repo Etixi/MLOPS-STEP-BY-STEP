@@ -1,0 +1,5 @@
+[core]
+    no_scm = True
+    remote = remote
+['remote "remote"']
+    url = gdrive://1hyVwGr6OLsBFFoY4zXjSQXEqyUBnQlnp
