@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Caplogy_Data_002/Exercices/workspace2/mlruns/268513964784011036/219d25fe77544e85969cb7c60acbbdc9/artifacts
+end_time: 1711029904906
+entry_point_name: ''
+experiment_id: '268513964784011036'
+lifecycle_stage: active
+run_id: 219d25fe77544e85969cb7c60acbbdc9
+run_name: Huber Regressor
+run_uuid: 219d25fe77544e85969cb7c60acbbdc9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711029904469
+status: 3
+tags: []
+user_id: Caplogy_Data_002

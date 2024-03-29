@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Caplogy_Data_002/Exercices/workspace2/mlruns/268513964784011036/58c8b238d1c648a69ec8fbaa250addcf/artifacts
+end_time: 1711029896513
+entry_point_name: ''
+experiment_id: '268513964784011036'
+lifecycle_stage: active
+run_id: 58c8b238d1c648a69ec8fbaa250addcf
+run_name: Light Gradient Boosting Machine
+run_uuid: 58c8b238d1c648a69ec8fbaa250addcf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711029895998
+status: 3
+tags: []
+user_id: Caplogy_Data_002

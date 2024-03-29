@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Caplogy_Data_002/Exercices/Interpretability_of_model/mlruns/815987896387645181/2d2147e2ba1e44e796c94a7e44f3758d/artifacts
+end_time: 1711032499091
+entry_point_name: ''
+experiment_id: '815987896387645181'
+lifecycle_stage: active
+run_id: 2d2147e2ba1e44e796c94a7e44f3758d
+run_name: Ridge Regression
+run_uuid: 2d2147e2ba1e44e796c94a7e44f3758d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711032498611
+status: 3
+tags: []
+user_id: Caplogy_Data_002

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Caplogy_Data_002/Exercices/workspace2/mlruns/268513964784011036/225e12bab73b4bfcbb352903120e98af/artifacts
+end_time: 1711028117813
+entry_point_name: ''
+experiment_id: '268513964784011036'
+lifecycle_stage: active
+run_id: 225e12bab73b4bfcbb352903120e98af
+run_name: AdaBoost Regressor
+run_uuid: 225e12bab73b4bfcbb352903120e98af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711028117182
+status: 3
+tags: []
+user_id: Caplogy_Data_002

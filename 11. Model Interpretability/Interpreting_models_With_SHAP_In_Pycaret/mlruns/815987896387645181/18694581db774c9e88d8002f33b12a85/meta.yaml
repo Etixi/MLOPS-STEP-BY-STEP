@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Caplogy_Data_002/Exercices/Interpretability_of_model/mlruns/815987896387645181/18694581db774c9e88d8002f33b12a85/artifacts
+end_time: 1711032499753
+entry_point_name: ''
+experiment_id: '815987896387645181'
+lifecycle_stage: active
+run_id: 18694581db774c9e88d8002f33b12a85
+run_name: Bayesian Ridge
+run_uuid: 18694581db774c9e88d8002f33b12a85
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711032499258
+status: 3
+tags: []
+user_id: Caplogy_Data_002

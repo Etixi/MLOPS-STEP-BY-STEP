@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Caplogy_Data_002/Exercices/Interpretability_of_model/mlruns/815987896387645181/e427652cc8af4053a3c2b6efab669c4b/artifacts
+end_time: 1693064073483
+entry_point_name: ''
+experiment_id: '815987896387645181'
+lifecycle_stage: active
+run_id: e427652cc8af4053a3c2b6efab669c4b
+run_name: Session Initialized b74f
+run_uuid: e427652cc8af4053a3c2b6efab669c4b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1693064072907
+status: 3
+tags: []
+user_id: Caplogy_Data_002

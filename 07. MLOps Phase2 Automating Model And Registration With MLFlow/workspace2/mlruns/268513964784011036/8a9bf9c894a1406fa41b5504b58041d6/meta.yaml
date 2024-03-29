@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Caplogy_Data_002/Exercices/workspace2/mlruns/268513964784011036/8a9bf9c894a1406fa41b5504b58041d6/artifacts
+end_time: 1711029897150
+entry_point_name: ''
+experiment_id: '268513964784011036'
+lifecycle_stage: active
+run_id: 8a9bf9c894a1406fa41b5504b58041d6
+run_name: Extra Trees Regressor
+run_uuid: 8a9bf9c894a1406fa41b5504b58041d6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711029896673
+status: 3
+tags: []
+user_id: Caplogy_Data_002

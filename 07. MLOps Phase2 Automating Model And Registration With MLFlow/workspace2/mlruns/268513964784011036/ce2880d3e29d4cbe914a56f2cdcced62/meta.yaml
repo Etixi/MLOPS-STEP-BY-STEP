@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Caplogy_Data_002/Exercices/workspace2/mlruns/268513964784011036/ce2880d3e29d4cbe914a56f2cdcced62/artifacts
+end_time: 1711030290308
+entry_point_name: ''
+experiment_id: '268513964784011036'
+lifecycle_stage: active
+run_id: ce2880d3e29d4cbe914a56f2cdcced62
+run_name: Linear Regression
+run_uuid: ce2880d3e29d4cbe914a56f2cdcced62
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711030289856
+status: 3
+tags: []
+user_id: Caplogy_Data_002

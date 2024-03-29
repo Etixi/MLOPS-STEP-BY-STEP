@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Caplogy_Data_002/Exercices/workspace1/mlruns/911725084949063512/b14c19a14a17459eafba5976bd9121d9/artifacts
+end_time: 1710774847842
+entry_point_name: ''
+experiment_id: '911725084949063512'
+lifecycle_stage: active
+run_id: b14c19a14a17459eafba5976bd9121d9
+run_name: Decision Tree Regressor
+run_uuid: b14c19a14a17459eafba5976bd9121d9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710774847315
+status: 3
+tags: []
+user_id: Caplogy_Data_002

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Caplogy_Data_002/Exercices/workspace2/mlruns/268513964784011036/c16e63d3e8bf4d36baa048d9ffb32b1b/artifacts
+end_time: 1711029903032
+entry_point_name: ''
+experiment_id: '268513964784011036'
+lifecycle_stage: active
+run_id: c16e63d3e8bf4d36baa048d9ffb32b1b
+run_name: Lasso Least Angle Regression
+run_uuid: c16e63d3e8bf4d36baa048d9ffb32b1b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711029902571
+status: 3
+tags: []
+user_id: Caplogy_Data_002

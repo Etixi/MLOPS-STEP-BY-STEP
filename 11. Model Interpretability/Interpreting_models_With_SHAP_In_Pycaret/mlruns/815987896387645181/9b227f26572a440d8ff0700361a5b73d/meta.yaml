@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Caplogy_Data_002/Exercices/Interpretability_of_model/mlruns/815987896387645181/9b227f26572a440d8ff0700361a5b73d/artifacts
+end_time: 1711032501194
+entry_point_name: ''
+experiment_id: '815987896387645181'
+lifecycle_stage: active
+run_id: 9b227f26572a440d8ff0700361a5b73d
+run_name: AdaBoost Regressor
+run_uuid: 9b227f26572a440d8ff0700361a5b73d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711032500720
+status: 3
+tags: []
+user_id: Caplogy_Data_002

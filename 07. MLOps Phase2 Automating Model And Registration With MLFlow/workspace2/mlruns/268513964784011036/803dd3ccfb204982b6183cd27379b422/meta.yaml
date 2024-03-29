@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Caplogy_Data_002/Exercices/workspace2/mlruns/268513964784011036/803dd3ccfb204982b6183cd27379b422/artifacts
+end_time: 1711029100199
+entry_point_name: ''
+experiment_id: '268513964784011036'
+lifecycle_stage: active
+run_id: 803dd3ccfb204982b6183cd27379b422
+run_name: Orthogonal Matching Pursuit
+run_uuid: 803dd3ccfb204982b6183cd27379b422
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711029099762
+status: 3
+tags: []
+user_id: Caplogy_Data_002

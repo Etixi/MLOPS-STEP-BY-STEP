@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Caplogy_Data_002/Exercices/workspace1/mlruns/911725084949063512/cc58bea0c288476c869486b339c90426/artifacts
+end_time: 1710774856071
+entry_point_name: ''
+experiment_id: '911725084949063512'
+lifecycle_stage: active
+run_id: cc58bea0c288476c869486b339c90426
+run_name: Dummy Regressor
+run_uuid: cc58bea0c288476c869486b339c90426
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710774855615
+status: 3
+tags: []
+user_id: Caplogy_Data_002

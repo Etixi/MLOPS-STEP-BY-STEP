@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Caplogy_Data_002/Exercices/workspace2/mlruns/268513964784011036/fb486e4b6e4a4131bb81fdbb999f38ad/artifacts
+end_time: 1711029897831
+entry_point_name: ''
+experiment_id: '268513964784011036'
+lifecycle_stage: active
+run_id: fb486e4b6e4a4131bb81fdbb999f38ad
+run_name: Gradient Boosting Regressor
+run_uuid: fb486e4b6e4a4131bb81fdbb999f38ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711029897311
+status: 3
+tags: []
+user_id: Caplogy_Data_002

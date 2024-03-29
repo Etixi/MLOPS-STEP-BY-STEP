@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Caplogy_Data_002/Exercices/workspace2/mlruns/268513964784011036/67f101e39d974d1fbd8012b00d3466c5/artifacts
+end_time: 1711029904298
+entry_point_name: ''
+experiment_id: '268513964784011036'
+lifecycle_stage: active
+run_id: 67f101e39d974d1fbd8012b00d3466c5
+run_name: Least Angle Regression
+run_uuid: 67f101e39d974d1fbd8012b00d3466c5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711029903852
+status: 3
+tags: []
+user_id: Caplogy_Data_002
