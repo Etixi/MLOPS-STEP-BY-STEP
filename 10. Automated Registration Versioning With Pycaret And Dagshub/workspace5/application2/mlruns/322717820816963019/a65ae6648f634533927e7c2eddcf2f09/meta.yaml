@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Caplogy_Data_002/Exercices/workspace5/application2/mlruns/322717820816963019/a65ae6648f634533927e7c2eddcf2f09/artifacts
+end_time: 1711818400954
+entry_point_name: ''
+experiment_id: '322717820816963019'
+lifecycle_stage: active
+run_id: a65ae6648f634533927e7c2eddcf2f09
+run_name: Gradient Boosting Classifier
+run_uuid: a65ae6648f634533927e7c2eddcf2f09
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711818400426
+status: 3
+tags: []
+user_id: Caplogy_Data_002

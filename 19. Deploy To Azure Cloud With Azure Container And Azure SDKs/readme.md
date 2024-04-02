@@ -76,3 +76,15 @@ Les `Blobs` sont des objets qui contiennent de grandes quantités de données no
 + `BlobClient` : permet de manipuler les blobs depuis `Azure Storage`.
 
 ![Azure](images/image7.jpeg)
+
+
+## Commands
+
+```
+        docker login pycaret.azurecr.io7
+        username : xxxxxxxxxxxxxxxxxx
+        password : xxxxxxxxxxxxxxxxxx
+        docker push pycaret.azurecr.io/pycaret-insurance:lastest
+        Go to create a resource => Web => click to Web App => Give a name => Select a container
+        pip install azure-storage-blob
+```

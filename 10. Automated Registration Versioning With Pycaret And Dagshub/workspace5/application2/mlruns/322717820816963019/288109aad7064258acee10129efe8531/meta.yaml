@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Caplogy_Data_002/Exercices/workspace5/application2/mlruns/322717820816963019/288109aad7064258acee10129efe8531/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '322717820816963019'
+lifecycle_stage: active
+run_id: 288109aad7064258acee10129efe8531
+run_name: Session Initialized 2df0
+run_uuid: 288109aad7064258acee10129efe8531
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711818294527
+status: 1
+tags: []
+user_id: Caplogy_Data_002

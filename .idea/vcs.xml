@@ -3,5 +3,7 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/04. Productivization and structuring of ML projects/Makefile/maketest" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/08. Versionning dataset With DVC/workspace3/dvc_tutorial" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/09. Code Repository With Dagshub DVC Git And MLFlow/workspace4/Dagshub_tutorial" vcs="Git" />
   </component>
 </project>

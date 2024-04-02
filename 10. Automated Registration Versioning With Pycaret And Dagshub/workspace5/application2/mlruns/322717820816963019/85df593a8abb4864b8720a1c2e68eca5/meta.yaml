@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Caplogy_Data_002/Exercices/workspace5/application2/mlruns/322717820816963019/85df593a8abb4864b8720a1c2e68eca5/artifacts
+end_time: 1711818400225
+entry_point_name: ''
+experiment_id: '322717820816963019'
+lifecycle_stage: active
+run_id: 85df593a8abb4864b8720a1c2e68eca5
+run_name: Ada Boost Classifier
+run_uuid: 85df593a8abb4864b8720a1c2e68eca5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711818399746
+status: 3
+tags: []
+user_id: Caplogy_Data_002
